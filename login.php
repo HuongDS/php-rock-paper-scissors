@@ -28,7 +28,7 @@ if ( isset($_POST['who']) && isset($_POST['pass']) ) {
 <html>
 <head>
 <?php require_once "bootstrap.php"; ?>
-<title>Dang Huong ed30e57d 496fc56d</title>
+<title>Dang Huong ed30e57d 496fc56d 0e71fdf4 </title>
 </head>
 <body>
 <div class="container">
