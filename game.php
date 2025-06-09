@@ -45,7 +45,7 @@ $result = check($computer, $human);
 <!DOCTYPE html>
 <html>
 <head>
-<title>Dang Huong ed30e57d 496fc56d</title>
+<title>Dang Huong ed30e57d 496fc56d 0e71fdf4 </title>
 <?php require_once "bootstrap.php"; ?>
 </head>
 <body>
